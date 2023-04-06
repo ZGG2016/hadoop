@@ -1,1 +1,1 @@
-Apache Hadoop
+Hadoop
